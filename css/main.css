@@ -1,0 +1,9 @@
+#bg-principal{
+	background-image: url("../img/dance_1.jpg");
+	height: 650px;
+}
+h2{
+	font-size: 70px;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 2px;
+}

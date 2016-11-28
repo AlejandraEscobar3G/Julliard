@@ -1,0 +1,32 @@
+		/*TITULO*/
+h1, a{
+	color: #1C2345;
+}
+		/*MENU*/
+li{
+	display: inline-block;
+}
+a{
+	text-decoration: none;
+	color: #A4A4A4;
+}
+button, .icon-bar{
+	background-color: #1C2345;
+	border: 1px solid #1C2345 !important;
+}
+		/*margins*/
+.m-2{
+	margin-top: 2%;
+}
+.m-0{
+	margin: 0% !important;
+}
+.m-10{
+	margin: 10%;
+}
+		/*paddings*/
+
+		/*textos*/
+.text-cloud{
+	color: #C8C6C2;
+}
